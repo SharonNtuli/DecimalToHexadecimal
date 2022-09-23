@@ -15,7 +15,7 @@ public class App {
 
         if(decimalNo<=10000) 
         {
-            // Executes when the Boolean expression is true
+           
             while (decimalNo>1)
         {
              remainder=decimalNo%16;
